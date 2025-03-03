@@ -5,13 +5,14 @@ This repository contains the implementation of machine learning and deep learnin
 ### [A Computational Intelligence Framework Integrating Data Augmentation and Meta-Heuristic Optimization Algorithms for Enhanced Hybrid Nanofluid Density Prediction Through Machine and Deep Learning Paradigms](https://doi.org/10.1109/ACCESS.2025.3543475)
 
 - **Published in:** IEEE Access  
-- **Publication Date:** 19 February 2025  
+- **Publication Date:** 19 February 2025 
+
+### * [Dataset](https://github.com/AI4A-lab/Hybrid-Nanofluid-Density-Prediction-Dataset) (utilized in the study)
 
 #### Links:
 
-- **[Dataset](https://github.com/AI4A-lab/Hybrid-Nanofluid-Density-Prediction-Dataset)**
 - **[Journal Homepage](https://ieeeaccess.ieee.org/)**
-- **[Scopus](https://www.scopus.com/sourceid/21100374601)**
+- **[Journal Scopus page](https://www.scopus.com/sourceid/21100374601)**
 
 #### Abstract
 <p align="justify">
