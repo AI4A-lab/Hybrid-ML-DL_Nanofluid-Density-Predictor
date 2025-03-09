@@ -2,6 +2,8 @@
 
 This repository contains the implementation of machine learning and deep learning models for predicting hybrid nanofluid density using advanced data augmentation and meta-heuristic optimization techniques. The methods presented here are detailed in the research paper:
 
+![Graphical Abstract](Graphical_Abstract.jpg)
+
 ### [A Computational Intelligence Framework Integrating Data Augmentation and Meta-Heuristic Optimization Algorithms for Enhanced Hybrid Nanofluid Density Prediction Through Machine and Deep Learning Paradigms](https://doi.org/10.1109/ACCESS.2025.3543475)
 
 - **Published in:** IEEE Access  
